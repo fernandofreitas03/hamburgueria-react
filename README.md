@@ -1,7 +1,7 @@
 # Tela-Login React
  
 
-<img src="./img/cadastro.png" width="92px" alt="imagem site"> <img src="./img/costumers.png"  width="92px" alt= "imagem responsiva">
+<img src="../img/cadastro.png" width="92px" alt="imagem site"> <img src="../img/costumers.png"  width="92px" alt= "imagem responsiva">
 
 > Resultado do projeto!
 ###  Tecnologias utilizadas no Projeto:
